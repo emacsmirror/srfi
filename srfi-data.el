@@ -558,7 +558,7 @@
    ;; SRFI 272:
    nil draft "Pretty Printing"
    ;; SRFI 273:
-   nil draft "Extensions to Data (Type-)Checking"
+   2026 final "Extensions to Data (Type-)Checking"
    ;; SRFI 274:
    nil draft "Extended List Conversion Procedures"
    ;; SRFI 275:
@@ -569,6 +569,8 @@
    nil draft "Cyclic ports"
    ;; SRFI 278:
    nil draft "Supplemental Numerics"
+   ;; SRFI 279:
+   nil draft "In(tro)spection Protocol"
    ]
   "Table of all known SRFI documents.")
 
@@ -610,7 +612,7 @@
     ("Internationalization"
      75 129 218)
     ("Introspection"
-     102 191 238)
+     102 191 238 279)
     ("Lazy Evaluation"
      65 155)
     ("Miscellaneous"
