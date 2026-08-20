@@ -560,7 +560,7 @@
    ;; SRFI 273:
    2026 final "Extensions to Data (Type-)Checking"
    ;; SRFI 274:
-   nil draft "Extended List Conversion Procedures"
+   2026 final "Extended List Conversion Procedures"
    ;; SRFI 275:
    nil draft "URIs and IRIs"
    ;; SRFI 276:
