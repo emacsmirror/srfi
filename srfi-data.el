@@ -562,7 +562,7 @@
    ;; SRFI 274:
    2026 final "Extended List Conversion Procedures"
    ;; SRFI 275:
-   nil draft "URIs and IRIs"
+   nil draft "URIs, IRIs, and basic paths"
    ;; SRFI 276:
    nil draft "Type-specific Flonum Libraries"
    ;; SRFI 277:
@@ -571,6 +571,8 @@
    nil draft "Supplemental Numerics"
    ;; SRFI 279:
    nil draft "In(tro)spection Protocol"
+   ;; SRFI 280:
+   nil draft "Monads"
    ]
   "Table of all known SRFI documents.")
 
@@ -616,7 +618,7 @@
     ("Lazy Evaluation"
      65 155)
     ("Miscellaneous"
-     31 92 120 123 154 165 172 173 187 223 235)
+     31 92 120 123 154 165 172 173 187 223 235 280)
     ("Modules"
      83 97 261)
     ("Multiple-Value Returns"
