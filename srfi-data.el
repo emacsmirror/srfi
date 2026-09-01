@@ -536,7 +536,7 @@
    ;; SRFI 261:
    2025 final "Portable SRFI Library Reference"
    ;; SRFI 262:
-   nil draft "Extensible pattern matcher"
+   2026 withdrawn "Extensible pattern matcher"
    ;; SRFI 263:
    2026 final "Prototype Object System"
    ;; SRFI 264:
