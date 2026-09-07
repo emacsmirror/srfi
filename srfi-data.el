@@ -566,7 +566,7 @@
    ;; SRFI 276:
    nil draft "Type-specific Flonum Libraries"
    ;; SRFI 277:
-   nil draft "Cyclic ports"
+   2026 final "Cyclic ports"
    ;; SRFI 278:
    nil draft "Supplemental Numerics"
    ;; SRFI 279:
